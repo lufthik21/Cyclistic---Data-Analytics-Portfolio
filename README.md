@@ -1,6 +1,6 @@
 # CASE STUDY: Chicago Cyclistic Bike-Share Analysis
 
-##### [Tabealu Dashboard](https://public.tableau.com/views/CyclisticDashboard_16605362010570/Overwiew?:language=en-GB&:display_count=n&:origin=viz_share_link)
+##### [Tableau Dashboard](https://public.tableau.com/views/CyclisticDashboard_16605362010570/Overwiew?:language=en-GB&:display_count=n&:origin=viz_share_link)
 
 ##### [Story Presentation to Skateholders](https://docs.google.com/presentation/d/1g8juyo4BOKv3xTOkLcHLwyl1-PDP1q-A/edit?usp=sharing&ouid=110324466169276418217&rtpof=true&sd=true)
 
@@ -126,7 +126,7 @@ bike_data %>%
  
 
 ## 5. Share 
-🎨 **[Tabealu Dashboard on Bike-Sharing Case Study](https://public.tableau.com/views/CyclisticDashboard_16605362010570/Overwiew?:language=en-GB&:display_count=n&:origin=viz_share_link)**
+🎨 **[Tableau Dashboard on Bike-Sharing Case Study](https://public.tableau.com/views/CyclisticDashboard_16605362010570/Overwiew?:language=en-GB&:display_count=n&:origin=viz_share_link)**
 
 
 🎨 **[Presentation on Cyclistic Bike-Sharing Case Study](https://docs.google.com/presentation/d/1g8juyo4BOKv3xTOkLcHLwyl1-PDP1q-A/edit?usp=sharing&ouid=110324466169276418217&rtpof=true&sd=true).**
